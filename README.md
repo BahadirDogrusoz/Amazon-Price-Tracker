@@ -17,6 +17,7 @@ requests, smtplib, BeautifulSoup
 # 4 - How Can I Use This?
 [First of all, you should learn your browser's headers information to be able to enter data into the headers dictionary.](http://myhttpheader.com/)
 ![alt text](https://raw.githubusercontent.com/L0gster/Amazon-Price-Tracker/main/Python3.png)
+![alt text](https://raw.githubusercontent.com/L0gster/Amazon-Price-Tracker/main/Python4.png)
 
 Secondly, after entering the headers information in the relevant fields in the dictionary, if you want to be notified when the product reaches the price, enter that price in the BUY_PRICE constant.
 
